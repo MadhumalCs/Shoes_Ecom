@@ -15,7 +15,7 @@ class Cart extends ChangeNotifier {
     Shoe(
       name: 'Carl Trex',
       price: '265',
-      imagePath: 'lib/images/shoespng.parspng.com_.png',
+      imagePath: 'lib/images/shoespng.parspng.com-6.png',
       description:
           'Lorem Ipsum is simply dummy text of the printing and typesetting industry.',
     ),
